@@ -1,3 +1,4 @@
 Name: Ezekiel S. Viray
 Program: BS Computer Science 
+Section: BSCS 1B
 Address: San Pablo, Laguna
